@@ -1,9 +1,9 @@
-# TOAST workshop and hackathon at UC San Diego
+# TOAST workshop and hackathon at IFPU/SISSA Trieste (Italy)
 
 ## Location and dates
 
-* Auditorium of the [San Diego Supercomputer Center](https://goo.gl/maps/PMgtzSJ6HCjaBefq9) in the University of California, San Diego campus
-* From Monday October 14th to Wednesday October 16th, just before and colocated with the CMB-S4 collaboration meeting
+* IFPU (Institute for Fondamental Physics of the Universe, https://www.ifpu.it), Trieste. More details will follow
+* From Wendesday November 20th to Friday November 22nd
 
 ## Registration
 
@@ -11,11 +11,21 @@ Please fill in the [registration form](https://forms.gle/fM29yRg1JYgsyFyg9), the
 
 ## Preliminary agenda
 
-### Monday October 14th
+### Wednesday November 20th
 
-### Tuesday October 15th
+### Thursday November 21st
 
-### Wednesday October 16th
+### Friday November 22nd
+
+## Organizers
+
+Carlo Baccigalupi
+Julian Borrill
+Reijo Keskitalo
+Ted Kisner
+Nicoletta Krachmalnicoff
+Maurizio Tomasi
+Andrea Zonca
 
 ## Acknowledgements
 
