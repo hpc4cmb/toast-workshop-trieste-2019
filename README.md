@@ -7,7 +7,7 @@
 
 ## Registration
 
-Please fill in the [registration form](https://forms.gle/fM29yRg1JYgsyFyg9), there is no registration fee.
+Please fill in the [registration form](https://forms.gle/D65LxPaTjcYEQ6gs5), there is no registration fee.
 
 ## Preliminary agenda
 
@@ -20,11 +20,17 @@ Please fill in the [registration form](https://forms.gle/fM29yRg1JYgsyFyg9), the
 ## Organizers
 
 Carlo Baccigalupi
+
 Julian Borrill
+
 Reijo Keskitalo
+
 Ted Kisner
+
 Nicoletta Krachmalnicoff
+
 Maurizio Tomasi
+
 Andrea Zonca
 
 ## Acknowledgements
