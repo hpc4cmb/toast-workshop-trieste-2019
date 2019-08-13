@@ -19,19 +19,13 @@ Please fill in the [registration form](https://forms.gle/D65LxPaTjcYEQ6gs5), the
 
 ## Organizers
 
-Carlo Baccigalupi
-
-Julian Borrill
-
-Reijo Keskitalo
-
-Ted Kisner
-
-Nicoletta Krachmalnicoff
-
-Maurizio Tomasi
-
-Andrea Zonca
+* Carlo Baccigalupi
+* Julian Borrill
+* Reijo Keskitalo
+* Ted Kisner
+* Nicoletta Krachmalnicoff
+* Maurizio Tomasi
+* Andrea Zonca
 
 ## Acknowledgements
 
