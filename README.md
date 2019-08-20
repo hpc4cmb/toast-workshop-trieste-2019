@@ -3,11 +3,11 @@
 ## Location and dates
 
 * IFPU (Institute for Fondamental Physics of the Universe, https://www.ifpu.it), Trieste. More details will follow
-* From Wendesday November 20th to Friday November 22nd
+* From Wednesday November 20th to Friday November 22nd
 
 ## Registration
 
-Please fill in the [registration form](https://forms.gle/D65LxPaTjcYEQ6gs5), there is no registration fee.
+Please fill in the [registration form](https://forms.gle/D65LxPaTjcYEQ6gs5) by November 6th; there is no registration fee.
 
 ## Preliminary agenda
 
