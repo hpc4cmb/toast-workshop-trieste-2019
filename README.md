@@ -17,13 +17,15 @@ Please fill in the [registration form](https://forms.gle/D65LxPaTjcYEQ6gs5), the
 
 ### Thursday November 21st
 
-9am-12pm : Introduction to TOAST
+9am-12pm : How to implement TOAST operators
 
-1pm-5pm : How to implement TOAST operators
+1pm-5pm : Hack on your own projects with expert support
 
 ### Friday November 22nd
 
-9am-5pm : Hack on your own project
+9am-5pm : Hack on your own projects with expert support
+
+1pm-5pm : Brainstorming, lessons learned, close out
 
 ## Organizers
 
