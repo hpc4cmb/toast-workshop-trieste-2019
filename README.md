@@ -35,7 +35,8 @@ Time | Event
 14:45 | Simulated Scan Strategies
 15:45 | Coffee Break
 16:00 | Simulated Sky Signals
-17:00 | End of Day 1
+17:00 | Hackathon Ideas and Discussion
+17:30 | End of Day 1
 
 ### Thursday November 21st
 
@@ -50,8 +51,8 @@ Time | Event
 14:30 | Coffee Break
 14:45 | Pipelines
 15:45 | Future Directions / Roadmap
-16:15 | Hackathon Ideas and Discussion
-17:00 | End of Day 2
+17:00 | Present Hacking notebook
+17:30 | End of Day 2
 
 ### Friday November 22nd
 
