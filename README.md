@@ -66,8 +66,8 @@ Time | Event
 13:15 | More Hacking
 14:30 | Coffee Break
 14:45 | More Hacking
-16:00 | Close Out
-17:00 | End of Day 3
+15:30 | Close out
+16:00 | End of Day 3
 
 ## Organizers
 
