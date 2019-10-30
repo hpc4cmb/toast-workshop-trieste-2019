@@ -8,7 +8,7 @@
 
 * The meeting location in reachable from the city center (Piazza Oberdan) with the bus number 6, leaving every 15 minutes.
 
-![map] (./map_ifpu.png)
+![map] (https://github.com/hpc4cmb/toast-workshop-trieste-2019/blob/trieste/map_ifpu.png)
 
 ## Registration
 
