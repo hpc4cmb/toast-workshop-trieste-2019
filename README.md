@@ -5,10 +5,10 @@
 * From Wednesday November 20th to Friday November 22nd
 
 * IFPU (Institute for Fondamental Physics of the Universe, https://www.ifpu.it), [Via Beirut 2, Trieste](https://goo.gl/maps/ojVRy7W4y4bh4NAt7). The workshop will take place in *Room D*, in the basement of the SISSA/IFPU main building (see map below).
-
+  ![map](https://github.com/hpc4cmb/toast-workshop-trieste-2019/blob/trieste/map_ifpu_small.png)
+  
 * The meeting location in reachable from the city center (Piazza Oberdan) with the bus number 6, leaving every 15 minutes.
 
-![map](https://github.com/hpc4cmb/toast-workshop-trieste-2019/blob/trieste/map_ifpu.png)
 
 ## Registration
 
@@ -76,6 +76,7 @@ Time | Event
 
 ## Meals
 
+We will provide coffee and snacks for the scheduled coffee breaks.
 Unfortunately we are unable to cover the expenses for meals. 
 The canteen of the ICTP institute will be accessible to all the participants for lunch.
 
