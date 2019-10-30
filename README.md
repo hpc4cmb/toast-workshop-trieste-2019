@@ -2,8 +2,13 @@
 
 ## Location and dates
 
-* IFPU (Institute for Fondamental Physics of the Universe, https://www.ifpu.it), Trieste. More details will follow
 * From Wednesday November 20th to Friday November 22nd
+
+* IFPU (Institute for Fondamental Physics of the Universe, https://www.ifpu.it), Via Beirut 2, Trieste. The workshop will take place in *Room D*, in the basement of the SISSA/IFPU main building (see map below).
+
+* The meeting location in reachable from the city center (Piazza Oberdan) with the bus number 6, leaving every 15 minutes.
+
+![map] (./map_ifpu.png)
 
 ## Registration
 
@@ -68,6 +73,13 @@ Time | Event
 14:45 | More Hacking
 15:30 | Close out
 16:00 | End of Day 3
+
+## Meals
+
+Unfortunately we are unable to cover the expenses for meals. 
+The canteen of the ICTP institute will be accessible to all the participants for lunch.
+
+We will organize a conference dinner on Thursday, Nov. 21st. Details will follow.
 
 ## Organizers
 
