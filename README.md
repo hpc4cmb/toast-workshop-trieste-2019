@@ -4,7 +4,7 @@
 
 * From Wednesday November 20th to Friday November 22nd
 
-* IFPU (Institute for Fondamental Physics of the Universe, https://www.ifpu.it), Via Beirut 2, Trieste. The workshop will take place in *Room D*, in the basement of the SISSA/IFPU main building (see map below).
+* IFPU (Institute for Fondamental Physics of the Universe, https://www.ifpu.it), [Via Beirut 2, Trieste](https://goo.gl/maps/ojVRy7W4y4bh4NAt7). The workshop will take place in *Room D*, in the basement of the SISSA/IFPU main building (see map below).
 
 * The meeting location in reachable from the city center (Piazza Oberdan) with the bus number 6, leaving every 15 minutes.
 
