@@ -39,9 +39,9 @@ Time | Event
 14:15 | Introduction to TOAST
 15:15 | Simulated Scan Strategies
 16:15 | Coffee Break
-16:45 | Simulated Sky Signals
-17:45 | Hackathon Ideas and Discussion
-18:45 | End of Day 1
+16:30 | Simulated Sky Signals
+17:30 | Hackathon Ideas and Discussion
+18:30 | End of Day 1
 
 ### Thursday November 21st
 
@@ -55,9 +55,9 @@ Time | Event
 13:30 | Map Making
 14:45 | Pipelines
 15:45 | Coffee break
-16:15 | Future Directions / Roadmap
-17:30 | Present Hacking notebook
-18:00 | End of Day 2
+16:00 | Future Directions / Roadmap
+17:15 | Present Hacking notebook
+17:45 | End of Day 2
 
 ### Friday November 22nd
 
@@ -70,9 +70,9 @@ Time | Event
 12:00 | Lunch Break
 13:30 | More Hacking
 15:30 | Coffee Break
-16:00 | More Hacking
-17:00 | Close out
-17:15 | End of Day 3
+15:45 | More Hacking
+16:45 | Close out
+17:00 | End of Day 3
 
 ## Meals
 
