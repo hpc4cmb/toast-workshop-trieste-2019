@@ -34,14 +34,14 @@ If you get any error logging in, please email `consult@nersc.gov` with details a
 
 Time | Event
 -----|--------
-13:00 | Arrive and Set Up
-13:30 | Meeting Overview
-13:45 | Introduction to TOAST
-14:45 | Simulated Scan Strategies
-15:45 | Coffee Break
-16:00 | Simulated Sky Signals
-17:00 | Hackathon Ideas and Discussion
-17:30 | End of Day 1
+13:30 | Arrive and Set Up
+14:00 | Meeting Overview
+14:15 | Introduction to TOAST
+15:15 | Simulated Scan Strategies
+16:15 | Coffee Break
+16:30 | Simulated Sky Signals
+17:30 | Hackathon Ideas and Discussion
+18:30 | End of Day 1
 
 ### Thursday November 21st
 
@@ -50,14 +50,14 @@ Time | Event
 09:00 | Arrive and Set Up
 09:15 | Simulated Instrument Signals
 10:30 | Coffee Break
-10:45 | Interfacing to Real Data
-11:45 | Lunch Break
-13:15 | Map Making
-14:30 | Coffee Break
+11:00 | Interfacing to Real Data
+12:00 | Lunch Break
+13:30 | Map Making
 14:45 | Pipelines
-15:45 | Future Directions / Roadmap
-17:00 | Present Hacking notebook
-17:30 | End of Day 2
+15:45 | Coffee break
+16:00 | Future Directions / Roadmap
+17:15 | Present Hacking notebook
+17:45 | End of Day 2
 
 ### Friday November 22nd
 
@@ -66,13 +66,13 @@ Time | Event
 09:00 | Arrive and Set Up
 09:15 | Start Hacking!
 10:30 | Coffee Break
-10:45 | More Hacking
+11:00 | More Hacking
 12:00 | Lunch Break
-13:15 | More Hacking
-14:30 | Coffee Break
-14:45 | More Hacking
-15:30 | Close out
-16:00 | End of Day 3
+13:30 | More Hacking
+15:30 | Coffee Break
+15:45 | More Hacking
+16:45 | Close out
+17:00 | End of Day 3
 
 ## Meals
 
