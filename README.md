@@ -22,9 +22,7 @@ Please [![Gitter](https://badges.gitter.im/hpc4cmb/toast-workshop-trieste-2019.s
 
 ## Shared Notes
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSNnx-4x8t-v84u9-gnVLxocBK9xPfXwl2_Om485ztjbAe6HdpaDvLyOYjrUovXGhFKIc-oJQWlDMwa/pub?embedded=true"></iframe>
-
-[You can edit the Google Docs here.](https://docs.google.com/document/d/1rCjbKkHJhMAYMv_eZ82wHbe5XdjIsjhT__exttpalro/edit?usp=sharing)
+You can [read it here](https://docs.google.com/document/d/e/2PACX-1vSNnx-4x8t-v84u9-gnVLxocBK9xPfXwl2_Om485ztjbAe6HdpaDvLyOYjrUovXGhFKIc-oJQWlDMwa/pub?embedded=true) or [you can edit the Google Docs here.](https://docs.google.com/document/d/1rCjbKkHJhMAYMv_eZ82wHbe5XdjIsjhT__exttpalro/edit?usp=sharing)
 
 ## NERSC account
 
