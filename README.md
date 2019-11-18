@@ -20,6 +20,12 @@ Please fill in the [registration form](https://forms.gle/D65LxPaTjcYEQ6gs5) by N
 
 Please [![Gitter](https://badges.gitter.im/hpc4cmb/toast-workshop-trieste-2019.svg)](https://gitter.im/hpc4cmb/toast-workshop-trieste-2019?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge), you should login with your Github credentials. Alternatively, GitLab or Twitter account can also be used to login.
 
+## Shared Notes
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSNnx-4x8t-v84u9-gnVLxocBK9xPfXwl2_Om485ztjbAe6HdpaDvLyOYjrUovXGhFKIc-oJQWlDMwa/pub?embedded=true"></iframe>
+
+[You can edit the Google Docs here.](https://docs.google.com/document/d/1rCjbKkHJhMAYMv_eZ82wHbe5XdjIsjhT__exttpalro/edit?usp=sharing)
+
 ## NERSC account
 
 Every attendee will need a NERSC account, if you do not have one please sign up at <https://nim.nersc.gov/nersc_account_request.php>
