@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/hpc4cmb/toast-workshop-trieste-2019.svg)](https://gitter.im/hpc4cmb/toast-workshop-trieste-2019?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # TOAST workshop and hackathon at IFPU/SISSA Trieste (Italy)
 
 ## Location and dates
@@ -13,6 +15,10 @@
 ## Registration
 
 Please fill in the [registration form](https://forms.gle/D65LxPaTjcYEQ6gs5) by November 6th; there is no registration fee.
+
+## Chat room
+
+Please [![Gitter](https://badges.gitter.im/hpc4cmb/toast-workshop-trieste-2019.svg)](https://gitter.im/hpc4cmb/toast-workshop-trieste-2019?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge), you should login with your Github credentials. Alternatively, GitLab or Twitter account can also be used to login.
 
 ## NERSC account
 
