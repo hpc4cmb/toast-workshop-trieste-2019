@@ -8,7 +8,7 @@ These notebooks are designed to run on the https://jupyter.nersc.gov but the ser
 
 If you are browsing through the lessons on github, the notebooks will not be rendered and all their output is stripped to avoid polluting the git history.  A rendered version of the notebooks is available here:
 
-https://portal.nersc.gov/project/cmb/toast-workshop-ucsd-2019/
+https://portal.nersc.gov/project/cmb/toast-workshop-trieste-2019/
 
 ## Connect to Jupyterhub
 
