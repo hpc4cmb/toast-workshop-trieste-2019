@@ -1,0 +1,7 @@
+for observation, color in zip(data.obs, ["red", "blue", "green"]):
+    tod = observation["tod"]
+    xdata = tod.local_times()
+    ydata = tod.local_signal("1A")
+    plt.plot(xdata, ydata, color=color)
+    plt.title(observation["name"])
+    plt.show()
