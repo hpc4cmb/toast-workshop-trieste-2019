@@ -105,3 +105,5 @@ venv.bak/
 
 # Temporary lesson files / directories
 lessons/01_Introduction/intro_data
+lessons/02_Simulated_Scan_Strategies/simscan_satellite_hits.fits
+
