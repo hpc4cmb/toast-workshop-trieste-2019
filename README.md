@@ -2,6 +2,8 @@
 
 # TOAST workshop and hackathon at IFPU/SISSA Trieste (Italy)
 
+Short link to repository <http://bit.ly/toast-trieste>
+
 ## Location and dates
 
 * From Wednesday November 20th to Friday November 22nd
