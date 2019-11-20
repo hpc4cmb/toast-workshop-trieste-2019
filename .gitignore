@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Temporary lesson files / directories
+lessons/01_Introduction/intro_data

@@ -1,0 +1,8 @@
+xdata = tod.local_times()
+# OR
+#xdata = tod.read_times()
+ydata = tod.local_signal("3B")
+# OR
+#ydata = tod.read(detector="3B")
+plt.plot(xdata, ydata)
+plt.show()
