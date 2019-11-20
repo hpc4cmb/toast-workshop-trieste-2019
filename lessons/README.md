@@ -18,7 +18,7 @@ Make sure you have activated your NERSC account and [have set up MFA](https://ww
 
 Go to the Jupyter menu File-->New-->Terminal.  This will launch a terminal window.  Decide where you want to put it and then clone this repo (you can **paste** into the JupyterLab terminal with `ctrl-shift-V` or invoking the contextual menu with `shift-rightclick`):
 
-    git clone https://github.com/hpc4cmb/toast-workshop-ucsd-2019
+    git clone https://github.com/hpc4cmb/toast-workshop-trieste-2019
     
 ## Set Up Your Software Stack
 
