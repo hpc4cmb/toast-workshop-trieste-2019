@@ -114,6 +114,7 @@ Social dinner will take place on Thursday Nov. 21st at 8pm at the [Ristorante Na
 * Reijo Keskitalo
 * Ted Kisner
 * Nicoletta Krachmalnicoff
+* Davide Poletti
 * Maurizio Tomasi
 * Andrea Zonca
 
