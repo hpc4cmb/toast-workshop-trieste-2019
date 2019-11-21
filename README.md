@@ -102,7 +102,10 @@ We will provide coffee and snacks for the scheduled coffee breaks.
 Unfortunately we are unable to cover the expenses for meals. 
 The canteen of the ICTP institute will be accessible to all the participants for lunch.
 
-We will organize a conference dinner on Thursday, Nov. 21st. Details will follow.
+### Social Dinner
+
+Social dinner will take place on Thursday Nov. 21st at 8pm at the [Ristorante Navigando](https://www.google.com/maps/place/Navigando+Trieste/@45.6486689,13.7647617,15z/data=!4m5!3m4!1s0x0:0x58b4e6b943f7dd9e!8m2!3d45.6486689!4d13.7647617), located in Riva Nazario Sauro, 6, Trieste.
+
 
 ## Organizers
 
