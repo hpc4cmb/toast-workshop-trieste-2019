@@ -60,7 +60,7 @@ Activate the conda environment where you installed TOAST:
 
 Install the required packages (from root folder of the repository):
 
-    conda install --file requirements.txt
+    conda install -c conda-forge --file requirements.txt
 
 Install JupyterLab in the environment:
 
