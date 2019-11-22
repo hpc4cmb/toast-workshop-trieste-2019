@@ -39,3 +39,30 @@ Create a new `hackathon` branch:
 git checkout -b hackathon
 ```
 
+## Setup on laptop
+
+### Install TOAST
+
+You can install TOAST easily on your laptop using the conda package, [see the documentation](https://toast-cmb.readthedocs.io/en/latest/install.html#conda-packages)
+
+### Checkout a copy of the workshop notebooks
+
+Checkout a copy of your fork on your laptop
+
+    export GITHUBUSERNAME='your-github-username`
+    git clone git@github.com:$GITHUBUSERNAME/toast-workshop-trieste-2019
+
+### Execute notebooks locally
+
+Activate the conda environment where you installed TOAST:
+
+    conda activate toast
+
+Install the required packages (from root folder of the repository):
+
+    conda install --file requirements.txt
+
+Install JupyterLab in the environment:
+
+    conda install jupyterlab
+    jupyter lab
