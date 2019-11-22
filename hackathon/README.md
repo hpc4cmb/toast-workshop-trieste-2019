@@ -66,3 +66,13 @@ Install JupyterLab in the environment:
 
     conda install jupyterlab
     jupyter lab
+
+### Execute a notebook with MPI
+
+Export a notebook to a Python script:
+
+    bash convert_notebook.sh generic_satellite.ipynb
+
+Run with mpi:
+
+    mpirun -np 4 python generic_satellite.py
